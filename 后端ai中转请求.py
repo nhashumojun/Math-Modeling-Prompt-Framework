@@ -1,4 +1,7 @@
-# 
+
+# 数模智能体地址：https://www.coze.cn/store/project/7548130644564688906
+# QQ群：905027256
+
 
 from fastapi import FastAPI, Request, HTTPException
 from fastapi.responses import JSONResponse
