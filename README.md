@@ -12,6 +12,10 @@ QQ群：905027256
 
 下面是我做的数模智能体，模块化设计，每个板块只调用了一次请求，结构化数据内容通过代码块处理，上下文干净，后续任务只调指定内容，无上下文缓存干扰，用起来省钱，fable5全流程跑也就20-30￥，grok/luna/gemini不到1￥。
 
+<img width="2550" height="1285" alt="image" src="https://github.com/user-attachments/assets/67765578-881c-47df-8539-173b9ed97710" />
+
+<img width="2550" height="1285" alt="image" src="https://github.com/user-attachments/assets/c947661f-70c2-40ab-aa61-bb78e02aecb8" />
+
 <img width="2550" height="1285" alt="image" src="https://github.com/user-attachments/assets/66e00150-227e-4e9c-967c-691661232bb5" />
 
 <img width="2550" height="1285" alt="image" src="https://github.com/user-attachments/assets/fe730bd6-0738-469e-be5f-191d1a345d30" />
